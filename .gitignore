@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Executables
+dmenu
+stest
+
+# Generated files
+config.h
